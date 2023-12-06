@@ -1,4 +1,4 @@
-#### Genetic algorithms:-
+### Genetic algorithms:-
 
 ### 1. Basic Concept:
    - **Inspiration from Nature:** GAs are based on the principles of genetics and natural selection, mimicking the evolutionary process seen in nature.
